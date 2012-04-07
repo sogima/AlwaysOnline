@@ -1,0 +1,9 @@
+This project allow to connect automatically to a proxy and execute the access using user specifyed credentials.
+It has been divided in source code putted in the src directory and in bytecode contained in the build directory.
+All needed classes/libraries has been included in both directories.
+A jar file has been created to overcome to manual compilation of all source code.
+There is also a zip file containing all classes and data needed, just unzip and use it.
+All data used by AlwaysOnline program is inside the directory data.
+
+AlwaysOnline si executed as a tray icon and provide a menu that allow to specify user credentials, the address of the
+proxy and the timeout to use to refresh the authentication.
